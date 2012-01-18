@@ -1,0 +1,4 @@
+build-essential
+libcurl4-openssl-dev
+libhtmlcxx-dev
+tidy

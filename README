@@ -3,3 +3,9 @@ efficient-frontier
 Calculates and graphs the efficient frontier for the ASX 200 daily.
 
 https://sites.google.com/site/ajessop/finance/efficient-frontier
+
+Running:
+--------
+	1. Install the depedencies listed in DEPENDENCIES
+	2. make
+	3. make process
