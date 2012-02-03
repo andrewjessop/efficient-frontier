@@ -19,6 +19,7 @@ public:
 private:
 	static void printSiblings(Tree& dom, TreeIt& oldIt);
 	static void printChildren(Tree& dom, TreeIt& oldIt);
+	static void parseRow(Tree& dom, TreeIt& oldIt);
 	
 	static const std::string trim(const std::string& pString,
 		const std::string& pWhiteSpace = " \t");
